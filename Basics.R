@@ -1,4 +1,4 @@
-# 
+
 
 a = 1
 b = 2
@@ -6,6 +6,9 @@ c = -1
 
 a
 ls ()
+
+# load the package
+
 library(dslabs)
 class(murders)
 str(murders)
